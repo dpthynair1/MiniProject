@@ -1,0 +1,9 @@
+/Users/dpthynair/Projects/CurrencyCoverter/CurrencyCoverter/bin/Debug/CurrencyCoverter.exe
+/Users/dpthynair/Projects/CurrencyCoverter/CurrencyCoverter/bin/Debug/CurrencyCoverter.pdb
+/Users/dpthynair/Projects/CurrencyCoverter/CurrencyCoverter/bin/Debug/Newtonsoft.Json.dll
+/Users/dpthynair/Projects/CurrencyCoverter/CurrencyCoverter/bin/Debug/Newtonsoft.Json.xml
+/Users/dpthynair/Projects/CurrencyCoverter/CurrencyCoverter/obj/Debug/AssetTracking.csprojAssemblyReference.cache
+/Users/dpthynair/Projects/CurrencyCoverter/CurrencyCoverter/obj/Debug/AssetTracking.csproj.CoreCompileInputs.cache
+/Users/dpthynair/Projects/CurrencyCoverter/CurrencyCoverter/obj/Debug/AssetTracking.csproj.CopyComplete
+/Users/dpthynair/Projects/CurrencyCoverter/CurrencyCoverter/obj/Debug/CurrencyCoverter.exe
+/Users/dpthynair/Projects/CurrencyCoverter/CurrencyCoverter/obj/Debug/CurrencyCoverter.pdb
